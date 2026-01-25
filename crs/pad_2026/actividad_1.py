@@ -8,7 +8,7 @@ import os
 
 class Ingestiones():
     def __init__(self):
-        self.ruta_static = "SRC/pad_2026/Static/"
+        self.ruta_static = "src/pad_2026/static/"
         
     def leer_api(self, url="http://api.citybik.es/v2/networks"):
         response = requests.get(url)
