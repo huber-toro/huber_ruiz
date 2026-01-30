@@ -35,5 +35,6 @@ if __name__ == "__main__":
     # Mostrar solo los primeros 5 sistemas de la API
     print(datos_api["networks"][:5])
     
+    
     # Guardar todo el JSON en un archivo
     inges.escribir_json("Actividad_1.json", datos_api)
