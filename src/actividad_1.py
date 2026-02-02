@@ -14,7 +14,7 @@ sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8")
 class Ingestiones:
     def __init__(self):
         # Carpeta base donde se guardarán los archivos
-        self.ruta_static = "evidencias/actividad_1"
+        self.ruta_static = "crs/evidencias/actividad_1"
         
     def leer_api(self, url="http://api.citybik.es/v2/networks"):
         """Lee datos desde la API de CityBikes"""
