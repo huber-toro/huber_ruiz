@@ -321,5 +321,5 @@ class Ejercicios:
         self.ejercicio21()
         
         self.df.to_csv(f"{self.ruta_Actividad2}/Actividad_2.csv", index=False)
-ene= ejercicios()
+ene= Ejercicios()
 ene.ejecutar()
