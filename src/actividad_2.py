@@ -294,7 +294,6 @@ class Ejercicios:
         #plt.show()
         self.df.iloc[20, 1] = "Histograma con dos distribuciones superpuestas"
         print("ejercicio21", "Histograma con dos distribuciones superpuestas")
-        
 
 
         #print(array_10_29)
