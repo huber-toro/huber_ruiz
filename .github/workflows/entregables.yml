@@ -1,5 +1,5 @@
 
-name: Entregables 
+name: Entregables 1,2
 on:
   push:
     branches: [ main ]
@@ -33,11 +33,14 @@ jobs:
 
       - name: paso5 - Ejecutar script actividad 1
         run: python src/actividad_1.py
+
+      - name: paso6 - Ejecutar script actividad 2
+        run: python src/actividad_2.py
         
       - name: Commit and Push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: Entrega_actividad_1
+          commit_message: Entrega_actividad_2
           commit_user_name: ubert Toro [GitHub Actions]
           commit_user_email: alonso.toro@est.iudigital.edu.co
           commit_author: ubert toro <alonso.toro@est.iudigital.edu.co>
