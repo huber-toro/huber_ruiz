@@ -27,6 +27,7 @@ class Ingestiones:
         os.makedirs(os.path.dirname(ruta_json), exist_ok=True)
         with open(ruta_json, "w", encoding="utf-8") as f:
             json.dump(datos, f, indent=4, ensure_ascii=False)
+            
 
 # Uso de la clase
 if __name__ == "__main__":
