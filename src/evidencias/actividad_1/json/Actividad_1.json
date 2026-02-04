@@ -658,6 +658,20 @@
             "system": "Baksi"
         },
         {
+            "id": "batumvelo",
+            "name": "Batumvelo",
+            "location": {
+                "latitude": 41.6478,
+                "longitude": 41.6355,
+                "city": "Batumi",
+                "country": "GE"
+            },
+            "href": "/v2/networks/batumvelo",
+            "company": [
+                "BatumVelo"
+            ]
+        },
+        {
             "id": "bay-wheels",
             "name": "Bay Wheels",
             "location": {
@@ -1202,6 +1216,21 @@
             ]
         },
         {
+            "id": "bicicastro",
+            "name": "BiciCastro",
+            "location": {
+                "latitude": 43.3849,
+                "longitude": -3.2181,
+                "city": "Castro-Urdiales",
+                "country": "ES"
+            },
+            "href": "/v2/networks/bicicastro",
+            "company": [
+                "Instituto Tecnológico de Castilla y León (ITCL)"
+            ],
+            "system": "bicicard"
+        },
+        {
             "id": "bicicletar",
             "name": "Bicicletar",
             "location": {
@@ -1280,7 +1309,8 @@
                 "name": "Open Licence",
                 "url": "https://developer.jcdecaux.com/#/opendata/licence"
             },
-            "source": "https://developer.jcdecaux.com"
+            "source": "https://developer.jcdecaux.com",
+            "gbfs_href": "https://api.cyclocity.fr/contracts/ljubljana/gbfs/gbfs.json"
         },
         {
             "id": "bicilog",
@@ -2303,7 +2333,8 @@
                 "name": "Open Licence",
                 "url": "https://developer.jcdecaux.com/#/opendata/licence"
             },
-            "source": "https://developer.jcdecaux.com"
+            "source": "https://developer.jcdecaux.com",
+            "gbfs_href": "https://api.cyclocity.fr/contracts/nantes/gbfs/gbfs.json"
         },
         {
             "id": "bicyklezadobreskutky",
@@ -3088,7 +3119,8 @@
                 "name": "Open Licence",
                 "url": "https://developer.jcdecaux.com/#/opendata/licence"
             },
-            "source": "https://developer.jcdecaux.com"
+            "source": "https://developer.jcdecaux.com",
+            "gbfs_href": "https://api.cyclocity.fr/contracts/lillestrom/gbfs/gbfs.json"
         },
         {
             "id": "c-velo",
@@ -3318,6 +3350,21 @@
             ],
             "system": "Bicincittà",
             "source": "https://www.bicincitta.com/frmLeStazioni.aspx?ID=161"
+        },
+        {
+            "id": "cenibici",
+            "name": "Cenibici",
+            "location": {
+                "latitude": 40.2623,
+                "longitude": -4.4661,
+                "city": "Cenicientos",
+                "country": "ES"
+            },
+            "href": "/v2/networks/cenibici",
+            "company": [
+                "Instituto Tecnológico de Castilla y León (ITCL)"
+            ],
+            "system": "bicicard"
         },
         {
             "id": "chantrerie-captainbike",
@@ -4483,7 +4530,8 @@
                 "name": "Open Licence",
                 "url": "https://developer.jcdecaux.com/#/opendata/licence"
             },
-            "source": "https://developer.jcdecaux.com"
+            "source": "https://developer.jcdecaux.com",
+            "gbfs_href": "https://api.cyclocity.fr/contracts/dublin/gbfs/gbfs.json"
         },
         {
             "id": "e-cargobike-goteborg",
@@ -6257,7 +6305,8 @@
                 "name": "Open Licence",
                 "url": "https://developer.jcdecaux.com/#/opendata/licence"
             },
-            "source": "https://developer.jcdecaux.com"
+            "source": "https://developer.jcdecaux.com",
+            "gbfs_href": "https://api.cyclocity.fr/contracts/namur/gbfs/gbfs.json"
         },
         {
             "id": "libelo",
@@ -6459,7 +6508,8 @@
                 "name": "Open Licence",
                 "url": "https://developer.jcdecaux.com/#/opendata/licence"
             },
-            "source": "https://developer.jcdecaux.com"
+            "source": "https://developer.jcdecaux.com",
+            "gbfs_href": "https://api.cyclocity.fr/contracts/lund/gbfs/gbfs.json"
         },
         {
             "id": "lviv-odessa",
@@ -6573,7 +6623,8 @@
                 "name": "Open Licence",
                 "url": "https://developer.jcdecaux.com/#/opendata/licence"
             },
-            "source": "https://developer.jcdecaux.com"
+            "source": "https://developer.jcdecaux.com",
+            "gbfs_href": "https://api.cyclocity.fr/contracts/maribor/gbfs/gbfs.json"
         },
         {
             "id": "mcallen",
@@ -10344,7 +10395,8 @@
                 "name": "Open Licence",
                 "url": "https://developer.jcdecaux.com/#/opendata/licence"
             },
-            "source": "https://developer.jcdecaux.com"
+            "source": "https://developer.jcdecaux.com",
+            "gbfs_href": "https://api.cyclocity.fr/contracts/seville/gbfs/gbfs.json"
         },
         {
             "id": "sibiu",
@@ -10956,7 +11008,8 @@
                 "name": "Open Licence",
                 "url": "https://developer.jcdecaux.com/#/opendata/licence"
             },
-            "source": "https://developer.jcdecaux.com"
+            "source": "https://developer.jcdecaux.com",
+            "gbfs_href": "https://api.cyclocity.fr/contracts/toyama/gbfs/gbfs.json"
         },
         {
             "id": "tradate",
@@ -11193,7 +11246,8 @@
                 "name": "Open Licence",
                 "url": "https://developer.jcdecaux.com/#/opendata/licence"
             },
-            "source": "https://developer.jcdecaux.com"
+            "source": "https://developer.jcdecaux.com",
+            "gbfs_href": "https://api.cyclocity.fr/contracts/valence/gbfs/gbfs.json"
         },
         {
             "id": "valentine",
@@ -11244,7 +11298,8 @@
                 "name": "Open Licence",
                 "url": "https://developer.jcdecaux.com/#/opendata/licence"
             },
-            "source": "https://developer.jcdecaux.com"
+            "source": "https://developer.jcdecaux.com",
+            "gbfs_href": "https://api.cyclocity.fr/contracts/amiens/gbfs/gbfs.json"
         },
         {
             "id": "velectin",
@@ -11363,7 +11418,8 @@
                 "name": "Open Licence",
                 "url": "https://developer.jcdecaux.com/#/opendata/licence"
             },
-            "source": "https://developer.jcdecaux.com"
+            "source": "https://developer.jcdecaux.com",
+            "gbfs_href": "https://api.cyclocity.fr/contracts/toulouse/gbfs/gbfs.json"
         },
         {
             "id": "velo-antwerpen",
@@ -11460,7 +11516,8 @@
                 "name": "Open Licence",
                 "url": "https://developer.jcdecaux.com/#/opendata/licence"
             },
-            "source": "https://developer.jcdecaux.com"
+            "source": "https://developer.jcdecaux.com",
+            "gbfs_href": "https://api.cyclocity.fr/contracts/besancon/gbfs/gbfs.json"
         },
         {
             "id": "velocite-laon",
@@ -11529,7 +11586,8 @@
                 "name": "Open Licence",
                 "url": "https://developer.jcdecaux.com/#/opendata/licence"
             },
-            "source": "https://developer.jcdecaux.com"
+            "source": "https://developer.jcdecaux.com",
+            "gbfs_href": "https://api.cyclocity.fr/contracts/luxembourg/gbfs/gbfs.json"
         },
         {
             "id": "velok",
@@ -11681,7 +11739,8 @@
                 "name": "Open Licence",
                 "url": "https://developer.jcdecaux.com/#/opendata/licence"
             },
-            "source": "https://developer.jcdecaux.com"
+            "source": "https://developer.jcdecaux.com",
+            "gbfs_href": "https://api.cyclocity.fr/contracts/nancy/gbfs/gbfs.json"
         },
         {
             "id": "velov",
@@ -11701,7 +11760,8 @@
                 "name": "Open Licence",
                 "url": "https://developer.jcdecaux.com/#/opendata/licence"
             },
-            "source": "https://developer.jcdecaux.com"
+            "source": "https://developer.jcdecaux.com",
+            "gbfs_href": "https://api.cyclocity.fr/contracts/lyon/gbfs/gbfs.json"
         },
         {
             "id": "velozef",
@@ -11833,7 +11893,8 @@
                 "name": "Open Licence",
                 "url": "https://developer.jcdecaux.com/#/opendata/licence"
             },
-            "source": "https://developer.jcdecaux.com"
+            "source": "https://developer.jcdecaux.com",
+            "gbfs_href": "https://api.cyclocity.fr/contracts/bruxelles/gbfs/gbfs.json"
         },
         {
             "id": "vilnius-cyclocity",
@@ -11853,7 +11914,8 @@
                 "name": "Open Licence",
                 "url": "https://developer.jcdecaux.com/#/opendata/licence"
             },
-            "source": "https://developer.jcdecaux.com"
+            "source": "https://developer.jcdecaux.com",
+            "gbfs_href": "https://api.cyclocity.fr/contracts/vilnius/gbfs/gbfs.json"
         },
         {
             "id": "vilvolt",
@@ -11902,6 +11964,21 @@
                 "Share2Go - Mobilidade Partilhada, Sociedade Unipessoal Lda"
             ],
             "ebikes": true
+        },
+        {
+            "id": "vive-villarcayo",
+            "name": "Vive Villarcayo",
+            "location": {
+                "latitude": 42.9384,
+                "longitude": -3.5724,
+                "city": "Villarcayo",
+                "country": "ES"
+            },
+            "href": "/v2/networks/vive-villarcayo",
+            "company": [
+                "Instituto Tecnológico de Castilla y León (ITCL)"
+            ],
+            "system": "bicicard"
         },
         {
             "id": "vlille",
