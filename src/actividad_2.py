@@ -323,3 +323,5 @@ class Ejercicios:
         self.df.to_csv(f"{self.ruta_Actividad2}/Actividad_2.csv", index=False)
 ene= Ejercicios()
 ene.ejecutar()
+
+        # Prueba workflow en Ubuntu
