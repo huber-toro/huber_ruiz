@@ -38,3 +38,4 @@ jobs:
           commit_user_name: ubert Toro [GitHub Actions]
           commit_user_email: alonso.toro@est.iudigital.edu.co
           commit_author: ubert toro <alonso.toro@est.iudigital.edu.co>
+          push_options: --force
