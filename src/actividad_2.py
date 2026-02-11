@@ -1,4 +1,5 @@
 # Evidencia de aprendizaje 2
+
 # Ubert Toro - IUDIGITAL
 
 import numpy as np
