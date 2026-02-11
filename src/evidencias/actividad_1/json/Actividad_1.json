@@ -5888,9 +5888,9 @@
             },
             "href": "/v2/networks/idecycle",
             "company": [
-                "Cykleo SAS"
+                "Fifteen SAS"
             ],
-            "system": "Cykleo"
+            "gbfs_href": "https://gbfs.partners.fifteen.eu/gbfs/pau/gbfs.json"
         },
         {
             "id": "indego",
